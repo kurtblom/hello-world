@@ -1,2 +1,2 @@
 # hello-world
-Initial Repository
+This is an initial commit for Hello World
